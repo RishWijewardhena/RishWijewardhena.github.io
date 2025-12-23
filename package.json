@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
- "homepage": "https://rishwijewardhena.github.io/portfolio"
-,
+  "homepage": "https://rishwijewardhena.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
